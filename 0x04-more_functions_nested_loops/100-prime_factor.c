@@ -10,6 +10,7 @@ int main(void)
 
 {
 	long int f, n, lf;
+
 	n = 612852475143;
 	f = 3;
 	lf = 0;
